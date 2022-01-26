@@ -19,6 +19,7 @@ My goal is to become that kind of person to someone too.
 
 <div align=center>
   
-  [![ChanhyoLee's github stats](https://github-readme-stats.vercel.app/api?username=ChanhyoLee&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
+[![ChanhyoLee's github stats](https://github-readme-stats.vercel.app/api?username=ChanhyoLee&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanhyoLee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
