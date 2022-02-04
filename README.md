@@ -8,7 +8,7 @@
 ### Senior :: Studying CS 💻 in Handong Global University 🏫
 
 - 📖 Currently Learning at [Deep Learning Lab](http://deeplearninglab.handong.edu)
-- 🔥 Interested in `Deep learning`, `System Engineering`, `Natural Language Processing`, `Computer Vision`
+- 🔥 Interested in `Deep learning`, `System Software`, `Natural Language Processing`, `Computer Vision`
 
 > 三人行必有我師 삼인행필유아사 - 논어 (공자, Confucius)
 > 
