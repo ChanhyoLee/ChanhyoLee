@@ -5,17 +5,18 @@
 </div>
 
 ## 👋: Chanhyo Lee's Github Repositories 📂:
-### Senior :: Studying CS 💻 in Handong Global University 🏫
+### Studyied Computer Science 💻 in Handong Global University 🏫
+#### 📖 Learned at [Deep Learning Lab](http://deeplearning.handong.edu)
+### Working at Kakao 🍫
+#### Currently, Infra Team (System Engineer)
+#### 🔥 Interested in `System Engineering`, `Deep learning`, `System Software`, `Natural Language Processing`
 
-- 📖 Currently Learning at [Deep Learning Lab](http://deeplearning.handong.edu)
-- 🔥 Interested in `Deep learning`, `System Software`, `Natural Language Processing`, `Computer Vision`
 
 > 三人行必有我師 삼인행필유아사 - 논어 (공자, Confucius)
 > 
 > When three people go along, there is someone who must be my teacher.
 
-I like to work with good people. 
-My goal is to become that kind of person to someone too.
+좋은 사람들과 일하고, 좋은 사람이 되고 싶습니다 (_ _)
 
 ---
 
