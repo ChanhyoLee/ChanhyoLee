@@ -5,7 +5,7 @@
 </div>
 
 ## 👋: Chanhyo Lee's Github Repositories 📂:
-### Studyied Computer Science 💻 in Handong Global University 🏫
+### Studied Computer Science 💻 in Handong Global University 🏫
 #### 📖 Learned at [Deep Learning Lab](http://deeplearning.handong.edu)
 ### Working at Kakao 🍫
 #### Currently, Infra Team (System Engineer)
